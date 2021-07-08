@@ -15,7 +15,9 @@ public class RMIClient {
     public static void main(String[] args) {
         try {
             if (args.length != 4) {
+                System.out.println();
                 System.out.println("Usage: java -jar rmi_bypass_jep290.jar rmi_server_ip rmi_server_port jrmp_listener_ip jrmp_listener_port");
+                System.out.println();
                 return;
             }
             String rmiServerHost = args[0];
