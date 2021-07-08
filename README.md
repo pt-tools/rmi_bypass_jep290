@@ -15,5 +15,5 @@ Usage: java -jar rmi_bypass_jep290.jar rmi_server_ip rmi_server_port jrmp_listen
 
 **适用的JDK版本：JDK <= 8u231**
 
-参考链接
-https://mogwailabs.de/en/blog/2020/02/an-trinhs-rmi-registry-bypass/
+
+参考链接：https://mogwailabs.de/en/blog/2020/02/an-trinhs-rmi-registry-bypass/
